@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b05d86f7-04d9-4d3f-8f6e-f672d7140fe0" name="Changes" comment="" />
+    <list default="true" id="b05d86f7-04d9-4d3f-8f6e-f672d7140fe0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/target/classes/com/design/patterns/studies/Teoria" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/design/patterns/studies/Teoria" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +48,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/fontes/estudos/strategy-pattern-java-example",
+    "last_opened_file_path": "C:/fontes/estudos/design-pattern-studies",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
@@ -134,7 +136,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/com/twygo/usacucar/Estrategias/InscreverUsuarioCursoStrategy.java</url>
           <line>67</line>
-          <properties class="com.twygo.usacucar.Estrategias.InscreverUsuarioCursoStrategy" method="inscreverUsuarioCurso">
+          <properties class="com.twygo.usacucar.Estrategias.InscreverUsuarioCursoStrategy">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -143,7 +145,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/com/twygo/usacucar/Estrategias/MostrarStatusCursoStrategy.java</url>
           <line>66</line>
-          <properties class="com.twygo.usacucar.Estrategias.MostrarStatusCursoStrategy" method="mostrarStatusConclusaoCurso">
+          <properties class="com.twygo.usacucar.Estrategias.MostrarStatusCursoStrategy">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -152,7 +154,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/com/twygo/usacucar/Estrategias/MostrarStatusCursoStrategy.java</url>
           <line>50</line>
-          <properties class="com.twygo.usacucar.Estrategias.MostrarStatusCursoStrategy" method="executarAcao">
+          <properties class="com.twygo.usacucar.Estrategias.MostrarStatusCursoStrategy">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -161,7 +163,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/com/twygo/usacucar/Estrategias/MostrarStatusCursoStrategy.java</url>
           <line>54</line>
-          <properties class="com.twygo.usacucar.Estrategias.MostrarStatusCursoStrategy" method="sendRequestWithAuthorization">
+          <properties class="com.twygo.usacucar.Estrategias.MostrarStatusCursoStrategy">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
