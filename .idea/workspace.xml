@@ -5,7 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b05d86f7-04d9-4d3f-8f6e-f672d7140fe0" name="Changes" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/target/classes/com/design/patterns/studies/Teoria" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/design/patterns/studies/Teoria" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/patterns/studies/Behavior/NullObject/NullObjectApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/patterns/studies/Behavior/Observer/ObserverApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/patterns/studies/Behavior/Observer/ObserverTheory" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/patterns/studies/Behavior/Strategy/StrategyTheory" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/patterns/studies/Behavior/TemplateMethod/TemplateMethodApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/patterns/studies/Behavior/TemplateMethod/TemplateMethodTheory" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/patterns/studies/Creational/Factory/FactoryTheory" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/patterns/studies/Creational/Singleton/SingletonApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/patterns/studies/Creational/Singleton/SingletonTheory" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/patterns/studies/Structural/Adapter/AdapterApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/patterns/studies/Structural/Adapter/AdapterTheory" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/patterns/studies/Structural/Composite/CompositeApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/patterns/studies/Structural/Composite/CompositeTheory" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/design/patterns/studies/DesignPatternsApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/design/patterns/studies/Creational/Factory/FactoryApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/design/patterns/studies/Teoria" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/design/patterns/studies/Behavior/NullObject/FactoryTheory" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/design/patterns/studies/DesignPatternsApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/design/patterns/studies/CompositeApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/design/patterns/studies/DesignPatternsApplication.class" beforeDir="false" />
+>>>>>>> 8ff49fe (base para estudo adicionada)
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,8 +73,14 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+<<<<<<< HEAD
     "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/fontes/estudos/design-pattern-studies",
+=======
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "strategy",
+    "last_opened_file_path": "C:/fontes/estudos/design-pattern-studies/src/main/java/com/design/patterns/studies/Composite",
+>>>>>>> 8ff49fe (base para estudo adicionada)
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
@@ -56,8 +88,33 @@
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.twygo.usacucar.model.repository" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\fontes\estudos\design-pattern-studies\src\main\java\com\design\patterns\studies\Composite" />
+      <recent name="C:\fontes\estudos\design-pattern-studies\src\main\java\com\design\patterns\studies\Adapter" />
+      <recent name="C:\fontes\estudos\design-pattern-studies\src\main\java\com\design\patterns\studies\Creational\Singleton" />
+      <recent name="C:\fontes\estudos\design-pattern-studies\src\main\java\com\design\patterns\studies\Creational" />
+      <recent name="C:\fontes\estudos\design-pattern-studies\src\main\java\com\design\patterns\studies\TemplateMethod" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\fontes\estudos\design-pattern-studies\src\main\java\com\design\patterns\studies\NullObject" />
+      <recent name="C:\fontes\estudos\design-pattern-studies\src\main\java\com\design\patterns\studies\strategy" />
+      <recent name="C:\fontes\estudos\design-pattern-studies\src\main\java\com\design\patterns\studies" />
+    </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.ObserverApplication">
+    <configuration name="ObserverApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.design.patterns.studies.Observer.ObserverApplication" />
+      <module name="studies" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.design.patterns.studies.Observer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Run" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.twygo.usacucar.UsacucarApplication" />
       <module name="usacucar" />
@@ -78,6 +135,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ObserverApplication" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
