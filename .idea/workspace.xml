@@ -5,29 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b05d86f7-04d9-4d3f-8f6e-f672d7140fe0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/patterns/studies/Behavior/NullObject/NullObjectApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/patterns/studies/Behavior/Observer/ObserverApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/patterns/studies/Behavior/Observer/ObserverTheory" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/patterns/studies/Behavior/Strategy/StrategyTheory" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/patterns/studies/Behavior/TemplateMethod/TemplateMethodApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/patterns/studies/Behavior/TemplateMethod/TemplateMethodTheory" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/patterns/studies/Creational/Factory/FactoryTheory" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/patterns/studies/Creational/Singleton/SingletonApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/patterns/studies/Creational/Singleton/SingletonTheory" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/patterns/studies/Structural/Adapter/AdapterApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/patterns/studies/Structural/Adapter/AdapterTheory" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/patterns/studies/Structural/Composite/CompositeApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/patterns/studies/Structural/Composite/CompositeTheory" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/design/patterns/studies/DesignPatternsApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/design/patterns/studies/Creational/Factory/FactoryApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/design/patterns/studies/Teoria" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/design/patterns/studies/Behavior/NullObject/FactoryTheory" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/design/patterns/studies/DesignPatternsApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/design/patterns/studies/CompositeApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/design/patterns/studies/DesignPatternsApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/design/patterns/studies/Behavior/NullObject/FactoryTheory" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavior/NullObject/FactoryTheory" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/design/patterns/studies/Behavior/NullObject/NullObjectApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavior/NullObject/NullObjectApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/design/patterns/studies/Behavior/Observer/ObserverApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavior/Observer/ObserverApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/design/patterns/studies/Behavior/Observer/ObserverTheory" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavior/Observer/ObserverTheory" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/design/patterns/studies/Behavior/Strategy/StrategyApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavior/Strategy/StrategyApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/design/patterns/studies/Behavior/Strategy/StrategyTheory" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavior/Strategy/StrategyTheory" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/design/patterns/studies/Behavior/TemplateMethod/TemplateMethodApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavior/TemplateMethod/TemplateMethodApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/design/patterns/studies/Behavior/TemplateMethod/TemplateMethodTheory" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavior/TemplateMethod/TemplateMethodTheory" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/design/patterns/studies/Creational/Factory/FactoryApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Creational/Factory/FactoryApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/design/patterns/studies/Creational/Factory/FactoryTheory" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Creational/Factory/FactoryTheory" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/design/patterns/studies/Creational/Singleton/SingletonApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Creational/Singleton/SingletonApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/design/patterns/studies/Creational/Singleton/SingletonTheory" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Creational/Singleton/SingletonTheory" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/design/patterns/studies/Structural/Adapter/AdapterApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Structural/Adapter/AdapterApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/design/patterns/studies/Structural/Adapter/AdapterTheory" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Structural/Adapter/AdapterTheory" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/design/patterns/studies/Structural/Composite/CompositeApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Structural/Composite/CompositeApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/design/patterns/studies/Structural/Composite/CompositeTheory" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Structural/Composite/CompositeTheory" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/design/patterns/studies/observer/DesignPatternsApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/design/patterns/studies/strategy/DesignPatternsApplication.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +68,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "strategy",
-    "last_opened_file_path": "C:/fontes/estudos/design-pattern-studies/src/main/java/com/design/patterns/studies/Composite",
+    "last_opened_file_path": "C:/fontes/estudos/design-pattern-studies/src/main/java",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
@@ -80,11 +77,11 @@
       <recent name="com.twygo.usacucar.model.repository" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\fontes\estudos\design-pattern-studies\src\main\java" />
       <recent name="C:\fontes\estudos\design-pattern-studies\src\main\java\com\design\patterns\studies\Composite" />
       <recent name="C:\fontes\estudos\design-pattern-studies\src\main\java\com\design\patterns\studies\Adapter" />
       <recent name="C:\fontes\estudos\design-pattern-studies\src\main\java\com\design\patterns\studies\Creational\Singleton" />
       <recent name="C:\fontes\estudos\design-pattern-studies\src\main\java\com\design\patterns\studies\Creational" />
-      <recent name="C:\fontes\estudos\design-pattern-studies\src\main\java\com\design\patterns\studies\TemplateMethod" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\fontes\estudos\design-pattern-studies\src\main\java\com\design\patterns\studies\NullObject" />
@@ -92,7 +89,46 @@
       <recent name="C:\fontes\estudos\design-pattern-studies\src\main\java\com\design\patterns\studies" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ObserverApplication">
+  <component name="RunManager" selected="Application.AdapterApplication">
+    <configuration name="AdapterApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Structural.Adapter.AdapterApplication" />
+      <module name="studies" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Structural.Adapter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Behavior.NullObject.NullObjectApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Behavior.NullObject.NullObjectApplication" />
+      <module name="studies" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Behavior.NullObject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NullObjectApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.design.patterns.studies.Behavior.NullObject.NullObjectApplication" />
+      <module name="studies" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.design.patterns.studies.Behavior.NullObject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ObserverApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.design.patterns.studies.Observer.ObserverApplication" />
       <module name="studies" />
@@ -128,6 +164,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AdapterApplication" />
+        <item itemvalue="Application.Behavior.NullObject.NullObjectApplication" />
+        <item itemvalue="Application.NullObjectApplication" />
         <item itemvalue="Application.ObserverApplication" />
       </list>
     </recent_temporary>
