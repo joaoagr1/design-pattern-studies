@@ -7,7 +7,6 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Facade" />
-        <module name="Composite" />
         <module name="Adapter" />
         <module name="prototype" />
         <module name="abstract-factory" />
@@ -21,6 +20,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="Composite" target="9" />
       <module name="Proxy" target="17" />
       <module name="singleton" target="17" />
       <module name="studies" target="17" />
