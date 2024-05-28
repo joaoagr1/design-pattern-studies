@@ -15,6 +15,12 @@ Temos uma classe abstrata chamada `ControleRemoto` que tem outras classes de mar
 
 Ao usar o padrão Bridge, podemos resolver este problema separando a hierarquia de abstração (tipos de controle remoto) da hierarquia de implementação (marcas de controle remoto).
 
+#### Solução
+
+![image](https://github.com/joaoagr1/design-pattern-studies/assets/125477822/6abd268c-3822-430b-a266-4fe5205d6845)
+
+
+
 ### Exemplo
 
 ```java
