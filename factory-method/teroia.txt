@@ -34,3 +34,46 @@ BOM
 RUIM
 . Se usado sem necessidade, pode causar uma explosão de subclasses. Será necessário uma classe ConcreteCreator
 para cada ConcreteProduct.
+
+
+🧠 Estrutura Lógica (com base no que você falou)
+Interface comum (Transporte)
+
+Define o que todo transporte deve fazer: por exemplo, o método entregar().
+
+Classe concreta (Caminhao)
+
+Implementa a interface Transporte.
+
+Fornece a lógica real do método entregar().
+
+Classe fábrica (LogisticaCaminhao)
+
+Tem um método que cria e retorna uma instância de Caminhao.
+
+Essa classe decide qual tipo de transporte será usado.
+
+Classe principal (Main)
+
+Usa a fábrica (LogisticaCaminhao) para obter um transporte, sem saber qual exatamente.
+
+Chama entregar() no transporte retornado.
+
+🔁 Caminho do software (explicado de forma clara)
+Você tem uma interface genérica chamada Transporte.
+Isso diz: “Qualquer transporte precisa saber se entregar.”
+
+Você cria uma classe específica, como Caminhao, que implementa essa interface.
+Ela diz: “Ok, eu entrego usando rodas.”
+
+Depois, você cria uma fábrica chamada LogisticaCaminhao que instancia e retorna um Caminhao.
+Essa fábrica decide qual transporte será usado (nesse caso, caminhão).
+
+No Main, você usa a fábrica para pedir um transporte:
+
+Você não cria o Caminhao diretamente.
+
+Você pede para a LogisticaCaminhao te dar um transporte.
+
+Quando você recebe o objeto, você só chama entregar().
+Você não se preocupa com o que foi criado nem como — só usa.

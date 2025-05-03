@@ -6,17 +6,17 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Facade" />
-        <module name="Adapter" />
-        <module name="prototype" />
-        <module name="abstract-factory" />
         <module name="Decorator" />
         <module name="factory-method" />
+        <module name="Facade" />
         <module name="Flyweight" />
         <module name="Command" />
         <module name="builder" />
         <module name="Strategy" />
+        <module name="Adapter" />
+        <module name="prototype" />
         <module name="Bridge" />
+        <module name="abstract-factory" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
